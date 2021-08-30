@@ -51,3 +51,9 @@ The web-native version of our book _Introduction to Modern Statistics_ can be fo
 :::
 
 ## Instructor Information
+
+The instructor for this course is Katherine Kinnaird. My office is room 208 in McConnell Hall. My email is kkinnaird@smith.edu. My student hours are Mondays from 1:30pm to 3:30pm, Fridays from 9am to 10am, and by appointment.
+
+:::{note}
+To book an appointment with me, go to my [appointment calendar](https://bit.ly/KinnairdAppts)
+:::

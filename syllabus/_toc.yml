@@ -6,7 +6,7 @@ root: intro
 chapters:
 - file: philosophy
 - file: profdev
-- file: logisitics
+- file: logistics
 - file: resources
 - file: grading
 - file: covid
