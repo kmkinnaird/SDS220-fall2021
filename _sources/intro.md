@@ -29,7 +29,7 @@ statisticians?
 
 #### Course Learning Objectives
 
-By the end of the course, ~students~ statisticians will be able to...
+By the end of the course, ~~students~~ statisticians will be able to...
 1. Responsibly use sample data to learn about a larger population, using 
 exploratory and inferential statistics - _Create Statistics_
 2. Detail the power and limitations of statistical concepts, and use this 
