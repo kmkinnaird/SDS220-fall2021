@@ -1,8 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: SDS 220 - Intro Stats & Probability 
-subtitle: Syllabus
+title: SDS 220 - Introduction to Statistics and Probability
 author: Katherine M. Kinnaird
 logo: logo.png
 
@@ -22,9 +21,9 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  url: https://kmkinnaird.github.io/SDS220-spring2021  # Online location of your book
+  path_to_book: _build/html # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
