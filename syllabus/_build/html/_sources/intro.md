@@ -46,7 +46,6 @@ statistics to a wide variety of audiences - _Communicate with Statistics_
 This webpage and the associated links together function as the syllabus. 
 Everything that you need to know about the course is either here or linked from here. 
 
-:::{note}
 The course syllabus is the most important document underlying the culture of 
 our course and our classroom. I view my syllabus as a sacred document that 
 both introduces and governs the course. In taking this view, I work to detail 
@@ -54,7 +53,9 @@ as much about the course as possible from the big picture ideas to the minute
 details of course policies. I believe that the first activity a student should 
 do when beginning a course is to carefully read and examine the syllabus. In 
 keeping with that belief, there are a few tasks in this document that will 
-help us build our course community. Please read the syllabus this week and 
-help us shape our community. If you have questions about the syllabus, please 
-ask them!
+help us build our course community. 
+
+:::{note}
+Please read the syllabus this week and 
+complete these tasks to help shape our community. If you have questions about the syllabus, please ask them!
 :::
