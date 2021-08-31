@@ -72,7 +72,8 @@ The 15 medals that represent core skills for the course are listed below, in the
 Each week, you will have group problem sets, a lab and either a starred problem or a knowledge check due each week. The course will operate as follows:
 
 | Day    | Course Preparation and/or Activity | Assignment due |
+| ----------- | ----------- | ----------- |
 | Monday     | Group Problem Set in class | Starred problem |
-| Wednesday     | Pencast for Monday posted | |
+| Wednesday     | Group Problem Set in class | (none) |
 | Thursday     | Lab in Class| Group Problem sets from Monday, Wednesday, and previous Friday |
 | Friday     | Group Problem Set in class | Lab from Thursday |
