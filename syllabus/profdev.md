@@ -22,7 +22,7 @@ Participation can take many forms, including but not limited to: attending class
 Our class's definition for participation can be found [here](https://docs.google.com/document/d/11DYaiSDBmKwATeNuHYi0DXPMR0Vrz7GDwsEUO-lvp0c/edit?usp=sharing)
 :::
 
-Adding to this list one way that you are called to participate in this course. If you find yourself unwilling or resistant to adding to this list, examine this. What is holding you back? What would help propel you to action? 
+Adding to this list one way that you are called to participate in this course. If you find yourself unwilling or resistant to add to this list, examine this. What is holding you back? What would help propel you to action? 
 
 
 ## Preparing for Class
