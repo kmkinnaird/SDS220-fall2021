@@ -40,7 +40,7 @@ In addition to our synchronous meetings, our class will make of electronic commu
 - **Slack Emojis:** At times, I will ask you to emoji a message to show that you have read the message. This is a quick way for you to signal that you read it. If there's something that you have a question about in a "please emoji" message, please use the threading function for that message or send me a direct message on slack. 
 
 :::{note}
-Please sign up for [our slack site](smi-sds-220-01-202201.slack.com), add a profile picture, and introduce yourself with your name and a fun-fact about yourself on the #intros channel. After signing up, please determine how and where you will get notifications from slack. 
+Please sign up for [our slack site](https://smi-sds-220-01-202201.slack.com/), add a profile picture, and introduce yourself with your name and a fun-fact about yourself on the #intros channel. After signing up, please determine how and where you will get notifications from slack. 
 :::
 
 Please note that on a typical workday, I leave my office just after 3:30pm. This means that emails and slack messages sent after 3:30pm will likely be received on the next business day. Similarly e-communication sent on the weekend will likely not be received until Monday. 
