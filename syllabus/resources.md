@@ -9,9 +9,13 @@ Students in need of short-term academic advice or support can contact your class
 
 ## Spinelli Center
 
+The Spinelli Center for Quantitative Learning is a resource to support students as they take STEM courses and as they engage in other quantitative work. To see the list of available peer tutors and other resources available at the Spinelli Center, please consult their [website](https://www.smith.edu/qlc/tutoring.html). 
+
 ## Jacobson Center
 
 Smith has an additional resource for writing support: the Jacobson Center for Writing, Teaching & Learning make an appointment to take your work to the Jacobson Center on [their website](https://www.smith.edu/academics/jacobson-center). In particular, you may choose to bring your work to Peer Writing Tutors Elisabeth Nesmith or Elina Gordon-Halpern, both SDS majors who tutor for the Jacobson Center. Contact Sara Eddy (seddy@smith.edu) for more information about their schedules or how to make an appointment.
+
+<font size="2">The above language about the Jacobson Center was adapted from language from Sara Eddy. Used with permission</font>
 
 ## Library
 
