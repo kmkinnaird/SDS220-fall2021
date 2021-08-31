@@ -77,4 +77,4 @@ The project will also scaffold explicit development of writing skills that SDS h
 
 Smith has an additional resource for writing support: the Jacobson Center for Writing, Teaching & Learning make an appointment to take your work to the Jacobson Center on [their website](https://www.smith.edu/academics/jacobson-center). In particular, you may choose to bring your work to Peer Writing Tutors Elisabeth Nesmith or Elina Gordon-Halpern, both SDS majors who tutor for the Jacobson Center. Contact Sara Eddy (seddy@smith.edu) for more information about their schedules or how to make an appointment.
 
-<font size="2">The above language about the Jacobson Center was adapted from language from Sara Eddy</font>(The above language about the Jacobson Center was adapted from language from Sara Eddy)
+<font size="2">The above language about the Jacobson Center was adapted from language from Sara Eddy. Used with permission</font>
