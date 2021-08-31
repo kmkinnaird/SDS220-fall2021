@@ -32,8 +32,6 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build syllabus/ --builder pdfhtml
-        mv _build/pdf/book.pdf syllabus/_build/html/coursemanual.pdf
         jupyter-book build -all syllabus/
 
     # Push the book's HTML to github-pages
