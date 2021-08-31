@@ -64,7 +64,9 @@ The 15 habit medals are spread over the activities in this course that help deve
 
 ### Engagement & Class Preparation: 3 Habit Medals
 
-These medals will be earned with student input. In the sixth week of the course and during the last week of classes, you will be asked to complete a self-evaluation of your class engagement in context of the class engagement list. Your self-evaluations will be a critical part of determining the levels associated to these three medals, but not the only determining factor. 
+Two of these habit medals will be earned with student input. In the sixth week of the course and during the last week of classes, you will be asked to complete a self-evaluation of your class engagement in context of the class engagement list. Your self-evaluations will be a critical part of determining the levels associated to these three medals, but not the only determining factor. 
+
+The third habit medal for class engagement is tied to your completion of the two individual writing assignments. If you complete both in good faith, you earn a Gold. If you only complete one in good faith, then you earn a Silver. 
 
 
 ### Group Problem Sets (GPsets): 4 Medals

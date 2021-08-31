@@ -66,6 +66,15 @@ This course focuses on statistics and while it might be tempting to assume that 
 
 In your assignments, I expect that you treat your readers as colleagues who have your respect and who you are genuinely interested in sharing your ideas with. This means that you may need to edit your responses or rewrite a solution to a problem for additional clarity. If you find yourself writing “the thing” or “you know what I mean,” I would recommend taking that as a sign that your assignment needs additional editing. If you have any questions about writing for statistics or more general, you are always welcome to reach out to me. 
 
+### Writing Enriched Curriculum
+
+The project will also scaffold explicit development of writing skills that SDS has laid out in our department's newly adopted [writing plan](https://www.smith.edu/sites/default/files/media/Documents/Jacobson-Center/SDS-WritingPlan-accessible.pdf). Specifically, our course will focus on three of the listed writing goals: 
+* Writing Goal 2 - Engage in a writing process that includes brainstorming, outlining, initial drafting, peer review, editing, and revising; 
+* Writing Goal 4 - Prioritize the important parts of the process and/or project to communicate
+* Writing Goal 5 - Clearly communicating the research question and how analysis will support the question in the introduction. 
+
 ### Jacobson Center for Writing, Teaching & Learning
 
 Smith has an additional resource for writing support: the Jacobson Center for Writing, Teaching & Learning make an appointment to take your work to the Jacobson Center on [their website](https://www.smith.edu/academics/jacobson-center). In particular, you may choose to bring your work to Peer Writing Tutors Elisabeth Nesmith or Elina Gordon-Halpern, both SDS majors who tutor for the Jacobson Center. Contact Sara Eddy (seddy@smith.edu) for more information about their schedules or how to make an appointment.
+
+<font size="2">The above language about the Jacobson Center was adapted from language from Sara Eddy</font>(The above language about the Jacobson Center was adapted from language from Sara Eddy)

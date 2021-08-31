@@ -26,7 +26,12 @@ The labs are designed to be completed in class with some work out of class to pr
 
 ## Projects 
 
-There will be one group project for the semester. In this project, you will use what we have learned in this class to investigate one data set of your choosing. There will be lab time set aside to work on the project
+There will be one group project for the semester. In this project, you will use what we have learned in this class to investigate one data set of your choosing. There will be lab time set aside to work on the project. 
+
+The project will also scaffold explicit development of writing skills that SDS has laid out in [our writing plan](https://www.smith.edu/sites/default/files/media/Documents/Jacobson-Center/SDS-WritingPlan-accessible.pdf). Specifically, our course will focus on three of the listed writing goals: 
+* Writing Goal 2 - Engage in a writing process that includes brainstorming, outlining, initial drafting, peer review, editing, and revising; 
+* Writing Goal 4 - Prioritize the important parts of the process and/or project to communicate
+* Writing Goal 5 - Clearly communicating the research question and how analysis will support the question in the introduction. 
 
 ## Starred Problems
 
@@ -64,7 +69,14 @@ The 15 medals that represent core skills for the course are listed below, in the
 4. Compare and contrast sample distributions and sampling distributions; Compare and contrast sampling and resampling; Compute and accurately describe standard error to a non-expert
 5. Compute and accurately describe confidence intervals to a non-expert; Articulate how confidence intervals relate to statistical inference
 6. Compute appropriate probabilities within a given context; State and apply Bayes' Rule
-7. State the four steps of a hypothesis test; Relate hypothesis testing to probability distributions; Detail the limits and potential abuses of hypothesis testing8. Define Type I and Type II errors; Explain how Type I and Type II are connected9. Describe issues of running multiple hypotheses in one hypothesis test to both an expert (using probabilistic ideas for support) and a non-expert10. Create linear models; Detail the meaning of each coefficient in a contextually meaningful fashion11. Evaluate linear models using statistical measures; Articulate limits and potential abuses of using linear models12. Identify potential confounding variables; Identify if, where, and how Simpson’s paradox is at play in a given context13. State and apply the Central Limit Theorem; Describe how the Central Limit Theorem relates to the normal distribution14. Describe the normal distribution including detailing features related to skew and standard deviation; articulate the differences between normal and t-distributions; articulate the differences between cumulative and density curves
+7. State the four steps of a hypothesis test; Relate hypothesis testing to probability distributions; Detail the limits and potential abuses of hypothesis testing
+8. Define Type I and Type II errors; Explain how Type I and Type II are connected
+9. Describe issues of running multiple hypotheses in one hypothesis test to both an expert (using probabilistic ideas for support) and a non-expert
+10. Create linear models; Detail the meaning of each coefficient in a contextually meaningful fashion
+11. Evaluate linear models using statistical measures; Articulate limits and potential abuses of using linear models
+12. Identify potential confounding variables; Identify if, where, and how Simpson’s paradox is at play in a given context
+13. State and apply the Central Limit Theorem; Describe how the Central Limit Theorem relates to the normal distribution
+14. Describe the normal distribution including detailing features related to skew and standard deviation; articulate the differences between normal and t-distributions; articulate the differences between cumulative and density curves
 15. Apply ANOVA and χ^2 tests appropriately, articulating each step of the tests
 
 ## Weekly flow for the course 
