@@ -59,3 +59,7 @@ help us build our course community.
 Please read the syllabus this week and 
 complete these tasks to help shape our community. If you have questions about the syllabus, please ask them!
 :::
+
+## Course Acknowledgements 
+
+Parts of this course - including slides, activities, and notes - will be from a variety of sources. Materials will be appropriately attributed and will be used in keeping with copyright and fair use laws. 
