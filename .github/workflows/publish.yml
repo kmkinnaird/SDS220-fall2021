@@ -10,7 +10,7 @@ on:
     # folder has been modified.
     #
     # paths:
-    # - syllabus/**
+    - syllabus/**
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
@@ -32,13 +32,13 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build . --builder pdfhtml
-        mv _build/pdf/book.pdf _build/html/coursemanual.pdf
-        jupyter-book build .
+        jupyter-book build syllabus/ --builder pdfhtml
+        mv _build/pdf/book.pdf syllabus/_build/html/coursemanual.pdf
+        jupyter-book build -all syllabus/
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_build/html
+        publish_dir: syllabus/_build/html
