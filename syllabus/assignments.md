@@ -22,7 +22,7 @@ GPsets are due on **Thursdays at 10am** unless otherwise noted on the Detailed C
 
 ## Labs
 
-The labs are designed to be completed in class with some work out of class to practice the ideas from the pre-lab assignments. These are due on **Fridays at 10am** unless otherwise noted on the Detailed Course Schedule. 
+The labs are designed to be completed in class with some work out of class to practice the ideas from the pre-lab assignments. Pre-labs are due **before the start of lab on Thursdays**. Labs are due on **Fridays at 10am** unless otherwise noted on the Detailed Course Schedule. 
 
 ## Projects 
 
@@ -46,6 +46,8 @@ Each week, you will complete a starred problem. The goals of these problems are 
 6.Complete a reflection worksheet about this problem and what you would like to review as a result of doing this problem
 
 These problems are based on completion (ie. you get the credit or not) based on both your solution and the content of your reflection. This means that you can get the problem totally wrong and still get full credit if you take the time to honestly reflect on your progress. This assignment structure is based on an assignment structure from Smith’s Engineering Program. 
+
+Starred problems are due on **Mondays at 10am** unless otherwise noted on the Detailed Course Schedule. 
 
 
 ## Knowledge Checks 
@@ -87,5 +89,5 @@ Each week, you will have group problem sets, a lab and either a starred problem 
 | ----------- | ----------- | ----------- |
 | Monday     | Group Problem Set in class | Starred problem |
 | Wednesday     | Group Problem Set in class | (none) |
-| Thursday     | Lab in Class| Group Problem sets from Monday, Wednesday, and previous Friday |
+| Thursday     | Lab in Class| Pre-lab; Group Problem sets from Monday, Wednesday, and previous Friday |
 | Friday     | Group Problem Set in class | Lab from Thursday |
