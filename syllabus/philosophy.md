@@ -7,7 +7,7 @@ placing emphasis on the student’s ownership of the learning process and a
 student’s consistency of effort. 
 
 
-### Stretch Zone
+## Stretch Zone
 
 Borrowing language from the 2019 Google J-term course, when learning in a 
 classroom setting, at any moment, we exist in one of three zones: safe, 

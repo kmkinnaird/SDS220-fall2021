@@ -91,3 +91,33 @@ Each week, you will have group problem sets, a lab and either a starred problem 
 | Wednesday     | Group Problem Set in class | (none) |
 | Thursday     | Lab in Class| Pre-lab; Group Problem sets from Monday, Wednesday, and previous Friday |
 | Friday     | Group Problem Set in class | Lab from Thursday |
+
+## Workload
+
+According to federal standards, each five-credit course should equate to at least 225 hours of work over the semester. If you are taking 16 credits, that equates to 720 hours of work over the 15 weeks of the semester, from the first day of classes until the end of the final exam period. In the case of this course, you will spend nearly 15 hours each week on my class alone (including our six hours of class meetings per week).[^1]
+
+[^1]: Each of our 75 minute meetings is "counted" as 90 minutes. Since we meet 4 times per week, our "in-class contact time" is counted as 6 hours. 
+
+In considering the work for this course, I believe that the approximate 9 hours per week _outside_ of class will breakdown something along these lines:
+
+- 3 hours of class prep - One hour per lecture for reading the book and prep activities
+- 1 hour per week of lab prep and/or wrap up
+- 1 hour per week on the project
+- 1 hour per week on the starred problem 
+- 3 hours of "flex time" used to supplement any of the above areas and/or go to student hours
+
+Notice that there are 3 hours of flex time. This is to accommodate weeks were you might want to spend more time on an assignment. For example, you might spend extra time studying in the weeks leading up to a knowledge check. 
+
+If you find that the time you are spending on this class is a lot more than 9 hours per week _outside_ of class or a lot less, let's check in. 
+
+### Spending time on *You*
+
+The current system is designed to keep you working more than 40 hours per week just on your courses. This means that the hours not working on class work are precious and should be treated as such. This does not mean that every hour of every day should be filled with things deemed important by others, but more as a call to be intentional with your time. A few questions you might want to ask yourself include: 
+
+- Are you spending time on yourself and your wellbeing? What are you doing to restore yourself? How much time and space do these activities need to be effective? 
+- Are you giving to your courses the time that you want to be? Are you giving them the time during part of the day when your brain is ready to engage new ideas?
+- Are you working doing your best thinking hours? If so, do you have any flexibility to adjust your daily schedule to be more present with your studies? 
+- Are you devoting time to being with your friends and/or your family? Are you present during those times? 
+- Are you losing hours to things or activities that are not high on your priority list? Alternatively, are you losing hours or days that you cannot recall what you did that day or why it so consumed you? 
+
+The adage tells us that “time is our most precious resource.” This statement frustrated me as a student because “I’ll have time after college/graduate school/post doc.” I have come to believe that this moment is the time that we have and if we are not intentional with our time today, right now, we will lose, not hours, not days, but months and years. I am working on a process of aligning my time to reflect my priorities as an educator, a researcher, a friend, and a family member. This is not a process that is completed in a few hours or a few days, but rather it is an iterative process of repeated and constant reflection. 
