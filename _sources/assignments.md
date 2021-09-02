@@ -1,10 +1,10 @@
 # Assignments
 
 To prepare students to tackle the course’s motivating questions - especially _What habits of mind do we need to develop to be effective and ethical 
-statisticians?_ -  there are a variety of assignments in this course. Each week will be a mix of reading about topics in statistics, discussing and debating concepts, putting our readings into practice, and constant reflection about our learning and professional development. All due dates are posted on the Detailed Course Schedule and are due on the stated dates at 10am. 
+statisticians?_ -  there are a variety of assignments in this course. Each week will be a mix of reading about topics in statistics, discussing and debating concepts, putting our readings into practice, and constant reflection about our learning and professional development. Due dates are posted on the Detailed Course Schedule and are due on the stated dates at 10am.
 
 :::{note}
-The [Detailed Course Schedule](https://docs.google.com/document/d/1wbKfFa0bVA09RDwy985S89Lqqyg13wLnlIv_zHeMlGM/edit?usp=sharing) lists all the due dates for the course. To view it, please log into your **Smith** account. 
+The [Detailed Course Schedule](https://docs.google.com/document/d/1wbKfFa0bVA09RDwy985S89Lqqyg13wLnlIv_zHeMlGM/edit?usp=sharing) lists the due dates for the course. To view it, please log into your **Smith** account. 
 :::
 
 
