@@ -131,10 +131,10 @@ Traditional letter grades will be assigned using the below listed minimum medal 
 
 | Letter Grade    | Number of Gold | Number of Silver | Number of Bronze | X |
 | :----:       |    :----:   |  :----: | :----:   |  :----: |
-| A     | 22 | 6  | 2  | 0 |
-| B     | 16 | 9  | 4  | 1 |
-| C     | 10 | 8  | 8  | 4 |
-| D     | 4  | 7  | 11 | 8 |
+| A     | 21 | 6  | 3  | 0 |
+| B     | 15 | 9  | 5  | 1 |
+| C     | 9 | 8  | 9  | 4 |
+| D     | 3  | 7  | 12 | 8 |
 
 :::{note}
 Higher levels can count for lower level totals, but not vice versa. For example, a silver level can count towards your bronze total but a silver level cannot count towards your gold total. 
