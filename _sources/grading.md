@@ -83,7 +83,9 @@ Note that pre-planned “dropping” of assignments should be used sparingly bec
 
 ### Labs: 2 Habit Medals
 
-There are 10 labs each with a pre-lab. All labs and pre-labs are each graded on completion, where **completion** means a good faith attempt. To earn a gold for the pre-lab medal, you need to complete 8 (of the 10) pre-labs with a good faith attempt. To earn a gold for the lab medal, you need to complete 8 (of the 10) labs with a good faith attempt. Like the GPsets, this means that you elect to not hand up to 2 of the labs and 2 of the pre-labs and still earn full credit for these two medals. For a silver for either the lab or pre-lab medal, you need to complete 6 (of 10) in good faith. 
+**Updated December 17, 2021**
+
+There are 10 labs each with a pre-lab. All labs and pre-labs are each graded on completion, where **completion** means a good faith attempt. To earn a gold for the pre-lab medal, you need to complete 8 (of the 10) pre-labs with a good faith attempt. To earn a gold for the lab medal, you need to complete 7 (of the 10) labs with a good faith attempt. Like the GPsets, this means that you elect to not hand up to 3 of the labs and 3 of the pre-labs and still earn full credit for these two medals. For a silver for either the lab or pre-lab medal, you need to complete 5 (of 10) in good faith. 
 
 You do not need my permission to not hand in a lab or pre-lab. You might elect not to hand in a lab or pre-lab for any number of reasons: it could be because you are ill, you forgot about it, or you had too much work for your other courses.
 
@@ -94,9 +96,11 @@ The habit medals associated to the group project will be tied to a rubric. That 
 
 ### Starred Problems: 2 Habit Medals
 
+**Updated December 17, 2021**
+
 There are 10 starred problems, each with two submission steps: one on Moodle and one on Gradescope. These problems are based on completion (ie. you get the credit or not) based on both your solution and the content of your reflection. This means that you can get the problem totally wrong and still get full credit if you take the time to honestly reflect on your progress.  
 
-To earn two gold habit medals for the starred problems, you need to complete 8 (of the 10) starred problems (with both submission steps) in good faith. Like the GPsets and labs, this means that you elect to not hand up to 2 of the starred problems to earn full credit for these two medals. For a silver for both medals, you need to complete 6 (of 10) in good faith. 
+To earn two gold habit medals for the starred problems, you need to complete 7 (of the 10) starred problems (with both submission steps) in good faith. Like the GPsets and labs, this means that you elect to not hand up to 3 of the starred problems to earn full credit for these two medals. For a silver for both medals, you need to complete 5 (of 10) in good faith. 
 
 You do not need my permission to not hand in a starred problem. You might elect not to hand in a starred problem for any number of reasons: it could be because you are ill, you forgot about it, or you had too much work for your other courses.
 
